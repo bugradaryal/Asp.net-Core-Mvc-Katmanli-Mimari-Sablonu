@@ -6063,11 +6063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\bugra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Shared\\NuGetPackages"
@@ -6088,8 +6088,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Entities\\Entities.csproj"
+            "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Entities\\Entities.csproj"
             }
           }
         }

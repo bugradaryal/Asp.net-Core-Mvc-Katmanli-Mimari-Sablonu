@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zTX03rA2KxNisQFVy0sZLgYfVFA+j05Op4gyN0c896b6CqWZbCwhJ+6etNTUKGSjrM6Ft85LUjPwaYDoZSf0Wg==",
+  "dgSpecHash": "1cJBlAgOGghhqPYh9BR2mSNQd0+Q+Ng7dQGoafPmxO+Q4uLavHCgN6AB4MnN6QsPTd+2eqElPqzjUoNCOYBPmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

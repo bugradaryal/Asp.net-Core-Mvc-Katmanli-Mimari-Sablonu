@@ -5998,11 +5998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\bugra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Shared\\NuGetPackages"
@@ -6023,11 +6023,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Business\\Business.csproj"
+            "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Business\\Business.csproj"
             },
-            "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Entities\\Entities.csproj"
+            "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Entities\\Entities.csproj"
             }
           }
         }

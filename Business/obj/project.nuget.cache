@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQPXpNaGCX01lBbLr8rUmcfuMw3k/bNNc2KcGfJ8Oz1D+bc3o/NK7slEdnpwcXEXN2M2ny3SHd/7P7GfJhgInw==",
+  "dgSpecHash": "7E2PJLm32JTsVSHX4l06E4Qx7cIRhDXOPrMNgAzX5yFJwgWR0LX+D3A6MPQW8FlqsIX6LsfW45kfGjhxOz2fcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bugra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\bugra\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

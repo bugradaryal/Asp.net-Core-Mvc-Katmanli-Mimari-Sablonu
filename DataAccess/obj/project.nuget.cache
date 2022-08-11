@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4rKpTDMHA3YZ5xlBdEwOujfndhh2j4KSG/KFs5NBXdO7ydqNFqjkR2awKtH7dJEXbHW4UK1ChgKhN87B1pGWQ==",
+  "dgSpecHash": "mgJfYXVzeaHe3mQzSN4b+Qfblr/zvFQiqo1sHGq8H9fs1AUltNlMgfKioSQuMZJE+dgkbltuH9NzmRr+zfgNeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bugra\\Desktop\\Katmanlı Mimari Şablonu\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\bugra\\Desktop\\Asp.net-Core-Mvc-Katmanli-Mimari-Sablonu\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bugra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bugra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
